@@ -4,7 +4,7 @@
     --blue: darkblue;
 }
 body{
-    font-family: 'Rubik Beastly', cursive;
+    font-family:  cursive;
 }
 nav{
     background-color: var(--primary);
